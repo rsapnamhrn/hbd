@@ -1,5 +1,5 @@
 #### birthday counter
-
+### thankyou https://github.com/pavanjadhaw/birthday-counter
 A really simple and elegant looking birthday counter
 
 &nbsp;
